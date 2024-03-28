@@ -1,0 +1,22 @@
+{
+  "name": "sitiodiw",
+  "version": "1.0.0",
+  "description": "Evaluable site for DIW",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Luis40zgz/sitioDIW.git"
+  },
+  "author": "Luis Sanchez García",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luis40zgz/sitioDIW/issues"
+  },
+  "homepage": "https://github.com/Luis40zgz/sitioDIW#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
